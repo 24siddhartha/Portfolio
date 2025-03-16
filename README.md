@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website! This is a tech-themed, futuristic portfolio showcasing my projects, skills, and contact details.  
 
-🌐 **Live Site:** [Your Vercel Link Here]([https://your-portfolio.vercel.app](https://portfolio-five-ebon-56.vercel.app/))
+🌐 **Live Site:** [[Your Vercel Link Here](https://portfolio-five-ebon-56.vercel.app/)]
 
 ---
 
