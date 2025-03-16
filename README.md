@@ -1,11 +1,3 @@
-Here's a **README.md** file for your portfolio project. This will help others understand what your project is about and how to set it up. 🚀  
-
-Let me know if you want any modifications!  
-
----
-
-### **README.md**  
-```md
 # 🚀 Guguloth Siddhartha - Portfolio
 
 Welcome to my personal portfolio website! This is a tech-themed, futuristic portfolio showcasing my projects, skills, and contact details.  
@@ -60,8 +52,3 @@ Simply open `index.html` in your browser.
 ---
 
 ⭐ **Like this portfolio? Feel free to fork and customize it!**  
-```
-
----
-
-Let me know if you want me to add anything else! 🚀# Portfolio
